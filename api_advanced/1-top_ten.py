@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-get top 10 hot posts function
+getting the top 10 hot posts function
 """
 
 import json
