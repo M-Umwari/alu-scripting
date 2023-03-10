@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-"""search post function"""
+"""searching the post function"""
 
 import json
 import operator
